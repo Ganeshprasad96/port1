@@ -3,6 +3,9 @@
   "name": "personal-portfolio",
   
   "version": "0.1.0",
+
+  "homepage": "http://GaneshPrasad96.github.io/portfolio2",
+
   
   "private": true,
   
@@ -76,7 +79,7 @@
   "predeploy": "npm run build",
   
     
-  "deploy": "gh-pages -d build"
+  "deploy": "gh-pages -d dist"
   
   },
   
